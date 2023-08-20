@@ -1,0 +1,14 @@
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\bin\Debug\net7.0\SocialMediaPlatform.exe
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\bin\Debug\net7.0\SocialMediaPlatform.deps.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\bin\Debug\net7.0\SocialMediaPlatform.runtimeconfig.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\bin\Debug\net7.0\SocialMediaPlatform.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\bin\Debug\net7.0\SocialMediaPlatform.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.AssemblyInfoInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.AssemblyInfo.cs
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.csproj.CoreCompileInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\refint\SocialMediaPlatform.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\SocialMediaPlatform.genruntimeconfig.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\SocialMediaPlatform\obj\Debug\net7.0\ref\SocialMediaPlatform.dll

@@ -1,0 +1,14 @@
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.AssemblyInfoInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.AssemblyInfo.cs
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.csproj.CoreCompileInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\bin\Debug\net7.0\CustomerRelationshipManagement.exe
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\bin\Debug\net7.0\CustomerRelationshipManagement.deps.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\bin\Debug\net7.0\CustomerRelationshipManagement.runtimeconfig.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\bin\Debug\net7.0\CustomerRelationshipManagement.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\bin\Debug\net7.0\CustomerRelationshipManagement.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\refint\CustomerRelationshipManagement.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\CustomerRelationshipManagement.genruntimeconfig.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\CustomerRelationshipManagement\obj\Debug\net7.0\ref\CustomerRelationshipManagement.dll

@@ -1,0 +1,14 @@
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\bin\Debug\net7.0\Student_Teacher.exe
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\bin\Debug\net7.0\Student_Teacher.deps.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\bin\Debug\net7.0\Student_Teacher.runtimeconfig.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\bin\Debug\net7.0\Student_Teacher.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\bin\Debug\net7.0\Student_Teacher.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.AssemblyInfoInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.AssemblyInfo.cs
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.csproj.CoreCompileInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\refint\Student_Teacher.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\Student_Teacher.genruntimeconfig.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Student_Teacher\obj\Debug\net7.0\ref\Student_Teacher.dll

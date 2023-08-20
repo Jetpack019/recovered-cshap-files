@@ -1,0 +1,14 @@
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\bin\Debug\net7.0\Mathpractice.exe
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\bin\Debug\net7.0\Mathpractice.deps.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\bin\Debug\net7.0\Mathpractice.runtimeconfig.json
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\bin\Debug\net7.0\Mathpractice.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\bin\Debug\net7.0\Mathpractice.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.AssemblyInfoInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.AssemblyInfo.cs
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.csproj.CoreCompileInputs.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\refint\Mathpractice.dll
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.pdb
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\Mathpractice.genruntimeconfig.cache
+C:\Users\jade\OneDrive - Bulacan State University\Desktop\Website Projects\C#\Mathpractice\obj\Debug\net7.0\ref\Mathpractice.dll
